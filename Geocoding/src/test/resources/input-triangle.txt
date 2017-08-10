@@ -1,0 +1,3 @@
+(37.5, -122.5), (38.2, -121.6), (37.0, -121.4)
+30840 Northwestern Highway, Farmington Hills, MI
+33306 Alvarado-Niles Rd, Union City, CA 94587
